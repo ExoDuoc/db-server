@@ -7,18 +7,23 @@
         "seccion": "B",
         "asistencias": [
           {
-            "id": "2",
-            "nombre": "Ana López asdkasd",
-            "correo": "ana@example.com",
-            "seccion": "B"
+            "fecha": "16-12-2024"
           }
         ]
       },
       {
-        "id": "0bd5",
-        "nombre": "camil",
+        "id": "3",
+        "nombre": "camilo",
         "correo": "dsd",
-        "seccion": "1233"
+        "seccion": "1233",
+        "asistencias": [
+            {
+              "fecha": "13-12-2024"
+            },
+            {
+              "fecha": "16-12-2024"
+            }
+          ]
       }
     ]
   }
